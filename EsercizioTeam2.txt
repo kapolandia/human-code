@@ -1,0 +1,38 @@
+OBIETTIVO: SCEGLIERE COSA GUARDARE SU NETFLIX
+
+1- SISTEMARE LA POSTAZIONE
+	-Prendere gli snack e da bere
+	-Sedersi alla postazione
+	-Accendere il device
+		-SE il device ha un'autonomia energetica
+			-SE è completamente scarico O il livello della batteria è basso
+				-metterlo in carica
+	-Visitare Netflix
+		-SE la connessione è lenta
+			-riavviare il modem
+		-SE non si è loggati
+			-fare il login
+2- SCEGLIERE IL CONTENUTO DA GUARDARE
+	-SE si vuole vedere un film
+		-PER OGNI FILM IN HOME
+			-FINCHÈ NON SI HA SONNO
+				-SE il film non attira O è stato visto
+					-continua nella ricerca
+				-ALTRIMENTI
+					-selezionare il film
+					-interrompere la ricerca
+					-premere play
+	-ALTRIMENTI SE si vuole vedere una serie
+		-PER OGNI SERIE IN HOME
+			-FINCHÈ NON SI HA SONNO
+				-SE la serie non attira O è stata vista
+					-continua nella ricerca
+				-ALTRIMENTI
+					-seleziona la serie
+					-interrompo la ricerca
+					-SE è una serie già iniziata senza averla conclusa
+						-seleziona la puntata a cui eri rimasto
+					-ALTRIMENTI
+						-seleziona la puntata 1 stagione 1
+					-premere play
+	-ALTRIMENTI andare direttamente a dormire
